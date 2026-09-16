@@ -52,22 +52,23 @@ The tool refuses to run without administrator rights rather than risk returning 
 
 **Keep learning, keep building, and keep understanding technology from both sides of the equation.**
 
-My background is in cybersecurity, but I'm interested in the broader technology behind it — systems, networking, Linux, cloud, automation, and the security considerations that come with all of them.
+My background is in cybersecurity, but I'm interested in the broader technology behind it, systems, networking, Linux, cloud, automation, and the security considerations that come with all of them.
 
 I'm particularly interested in the intersection between **building technology and understanding how to protect it**.
-
-Currently building out a **home lab with Active Directory and a cloud lab** alongside it while I chase **AZ-104**.
 
 ---
 
 # Tools
 
 * Python
-* Linux (daily driver)
-* Windows Server
+* Wireshark
+* nmap
 * Git
 * GitHub Actions
 * Bash
+* Metasploit
+* Burp Suite
+* Linux
 
 # Certifications
 
