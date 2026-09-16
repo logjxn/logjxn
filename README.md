@@ -52,7 +52,7 @@ The tool refuses to run without administrator rights rather than risk returning 
 
 **Keep learning, keep building, and keep understanding technology from both sides of the equation.**
 
-My background is in cybersecurity, but I'm interested in the broader technology behind it, systems, networking, Linux, cloud, automation, and the security considerations that come with all of them.
+My background is in cybersecurity, and I'm interested in improving my skills and knowledge everyday. Whether that's professional experience, certification study, or online platforms like THM or HTB, I aim to continuously learn and improve.
 
 I'm particularly interested in the intersection between **building technology and understanding how to protect it**.
 
