@@ -8,7 +8,7 @@ Things I've built
 
 [sb-audit](https://github.com/logjxn/sb-audit) - A Windows boot-posture auditor. Checks Secure Boot, TPM, and UEFI configuration so you can see why a machine won't boot secure. Read-only, nothing gets changed.
 
-Currently working toward CCNA, RHCSA, and AZ-104. Always trying to learn something.
+Currently working toward AZ-104. Always trying to learn something.
 
 Reach me
 
