@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Logan 👋
 
-<!--
-**logjxn/logjxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional and junior sysadmin. I build small tools that aim to fix real problems, usually in Python, and usually because something annoyed me first.
 
-Here are some ideas to get you started:
+Things I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ISOx](https://github.com/logjxn/ISOx) - A Python CLI that pulls Linux ISOs from the fastest mirror and verifies them against the distro's own checksums. On PyPI: pip install isox
+
+[sb-audit](https://github.com/logjxn/sb-audit) - A Windows boot-posture auditor. Checks Secure Boot, TPM, and UEFI configuration so you can see why a machine won't boot secure. Read-only, nothing gets changed.
+
+Currently working toward CCNA, RHCSA, and AZ-104. Always trying to learn something.
+
+Reach me
+
+[LinkedIn](https://linkedin.com/in/logjackson)
