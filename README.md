@@ -10,8 +10,6 @@ Things I've built
 
 Currently working toward AZ-104. Always trying to learn something.
 
-Reach me
-
-[LinkedIn](https://linkedin.com/in/logjackson)
+Reach me on - [LinkedIn](https://linkedin.com/in/logjackson)
 
 Active Certifications: CompTIA A+ - Network+ - Security+ - Data+ - Project+ - CySA+ - PenTest+ - LPI Linux Essentials - ITIL4 Foundation
