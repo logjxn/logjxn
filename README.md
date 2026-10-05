@@ -14,5 +14,4 @@ Reach me
 
 [LinkedIn](https://linkedin.com/in/logjackson)
 
-Certifications
-CompTIA A+ - Network+ - Security+ - Data+ - Project+ - CySA+ - PenTest+ - LPI Linux Essentials - ITIL4 Foundation
+Active Certifications: CompTIA A+ - Network+ - Security+ - Data+ - Project+ - CySA+ - PenTest+ - LPI Linux Essentials - ITIL4 Foundation
