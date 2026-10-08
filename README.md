@@ -9,6 +9,7 @@ IT professional and junior sysadmin. I aim to build small tools to fix real prob
 
 ### Pipeline
 Currently working toward AZ-104. Always trying to learn something. 
+Checkout my progress: [az-suite](https://github.com/logjxn/az-suite)
 
 ### Contact
 Reach me on - [LinkedIn](https://linkedin.com/in/logjackson)
