@@ -13,6 +13,3 @@ Checkout my progress: [az-suite](https://github.com/logjxn/az-suite)
 
 ### Contact
 Reach me on - [LinkedIn](https://linkedin.com/in/logjackson)
-
-### Active Certifications
-CompTIA A+ - Network+ - Security+ - Data+ - Project+ - CySA+ - PenTest+ - LPI Linux Essentials - ITIL4 Foundation
