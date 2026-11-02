@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" role="img" aria-labelledby="t">
+  <title id="t">logjxn: fastfetch in a brown terminal. IT, cloud and infrastructure. Azure, Linux, Windows, Python, PowerShell, Bash. Studying for AZ-104.</title>
+  <style>
+    text { font-family: 'DejaVu Sans Mono', 'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 16px; }
+    .muted { fill: #A99270; }
+    .tan { fill: #D6B98C; }
+    .bold { font-weight: 700; }
+    .in { animation: in .35s ease-out both; }
+    .key { animation: in .01s step-end both; }
+    .cur { animation: in .01s 3.3s both, blink 1.1s 3.3s step-end infinite; }
+    @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="958" height="518" rx="14" fill="#45392F" stroke="#695644" stroke-width="2"/>
+  <path d="M2 40V15A13 13 0 0 1 15 2H945A13 13 0 0 1 958 15V40Z" fill="#3B3129"/>
+  <path d="M2 40H958" stroke="#695644" stroke-width="2"/>
+  <g fill="#695644"><circle cx="26" cy="21" r="6"/><circle cx="46" cy="21" r="6"/><circle cx="66" cy="21" r="6"/></g>
+  <text x="480" y="26" text-anchor="middle" class="muted" style="font-size:14px">logjxn@fedora: ~</text>
+
+  <!-- prompt + typed command -->
+  <text x="40" y="80" class="muted">logjxn@fedora <tspan class="tan">~</tspan></text>
+  <text x="40" y="104" class="tan bold">&gt;_</text>
+  <text x="68.8" y="104" class="tan key" style="animation-delay:0.50s">f</text>
+  <text x="78.4" y="104" class="tan key" style="animation-delay:0.59s">a</text>
+  <text x="88" y="104" class="tan key" style="animation-delay:0.68s">s</text>
+  <text x="97.6" y="104" class="tan key" style="animation-delay:0.77s">t</text>
+  <text x="107.2" y="104" class="tan key" style="animation-delay:0.86s">f</text>
+  <text x="116.8" y="104" class="tan key" style="animation-delay:0.95s">e</text>
+  <text x="126.4" y="104" class="tan key" style="animation-delay:1.04s">t</text>
+  <text x="136" y="104" class="tan key" style="animation-delay:1.13s">c</text>
+  <text x="145.6" y="104" class="tan key" style="animation-delay:1.22s">h</text>
+
+  <!-- logo -->
+  <g transform="translate(44 156) scale(1.4)" class="in" style="animation-delay:1.61s">
+    <path fill="#D6B98C" d="M12 0h24v22h-24zM24 22h24v22h-24zM36 44h24v22h-24zM24 66h24v22h-24zM12 88h24v22h-24zM72 88h84v22h-84z"/>
+    <path fill="none" stroke="#A99270" stroke-width="1.3" d="M36 8.5H44.5V22M36 13.5H39.5V22M24 35.5H15.5V22M24 30.5H20.5V22M48 30.5H56.5V44M48 35.5H51.5V44M36 57.5H27.5V44M36 52.5H32.5V44M60 52.5H68.5V66M60 57.5H63.5V66M60 74.5H51.5V88M60 79.5H56.5V88M60 79.5H68.5V66M60 74.5H63.5V66M48 96.5H39.5V110M48 101.5H44.5V110M48 101.5H56.5V88M48 96.5H51.5V88M156 96.5H164.5V110M156 101.5H159.5V110M24 123.5H15.5V110M24 118.5H20.5V110M24 118.5h12M24 123.5h12M36 123.5H44.5V110M36 118.5H39.5V110M84 123.5H75.5V110M84 118.5H80.5V110M84 118.5h72M84 123.5h72M156 123.5H164.5V110M156 118.5H159.5V110"/>
+  </g>
+
+  <!-- info -->
+  <text x="300" y="150" class="in bold" fill="#FFFFFF" style="animation-delay:1.71s">log<tspan class="muted">@</tspan>logjxn</text>
+  <path d="M300 160h104" stroke="#695644" stroke-width="2" class="in" style="animation-delay:1.71s"/>
+  <g class="in" style="animation-delay:1.79s"><text x="300" y="184" class="muted">role</text><text x="410" y="184" xml:space="preserve"><tspan fill="#D6B98C">IT · cloud + infrastructure</tspan></text></g>
+  <g class="in" style="animation-delay:1.87s"><text x="300" y="210" class="muted">cloud</text><text x="410" y="210" xml:space="preserve"><tspan fill="#D6B98C">Microsoft Azure · identity · networking</tspan></text></g>
+  <g class="in" style="animation-delay:1.95s"><text x="300" y="236" class="muted">infra</text><text x="410" y="236" xml:space="preserve"><tspan fill="#D6B98C">Linux · Windows · virtualization</tspan></text></g>
+  <g class="in" style="animation-delay:2.03s"><text x="300" y="262" class="muted">automate</text><text x="410" y="262" xml:space="preserve"><tspan fill="#D6B98C">Python · PowerShell · Bash</tspan></text></g>
+  <g class="in" style="animation-delay:2.11s"><text x="300" y="288" class="muted">security</text><text x="410" y="288" xml:space="preserve"><tspan fill="#D6B98C">endpoint · hardening · IAM</tspan></text></g>
+  <g class="in" style="animation-delay:2.19s"><text x="300" y="314" class="muted">projects</text><text x="410" y="314" xml:space="preserve"><tspan fill="#3A96DD">az-suite</tspan><tspan fill="#A99270"> · </tspan><tspan fill="#B8A281">ISOx</tspan><tspan fill="#A99270"> · </tspan><tspan fill="#81ADDB">sb-audit</tspan></text></g>
+  <g class="in" style="animation-delay:2.27s"><text x="300" y="340" class="muted">studying</text><text x="410" y="340" xml:space="preserve"><tspan fill="#3A96DD">AZ-104</tspan><tspan fill="#8FC08A">  in progress</tspan></text></g>
+  <g class="in" style="animation-delay:2.35s"><text x="300" y="366" class="muted">os</text><text x="410" y="366" xml:space="preserve"><tspan fill="#FFFFFF">Fedora COSMIC + Windows</tspan></text></g>
+  <g class="in" style="animation-delay:2.47s">
+    <rect x="300" y="392" width="26" height="16" rx="3" fill="#3B3129" stroke="#695644"/>
+    <rect x="330" y="392" width="26" height="16" rx="3" fill="#E08A7E"/>
+    <rect x="360" y="392" width="26" height="16" rx="3" fill="#8FC08A"/>
+    <rect x="390" y="392" width="26" height="16" rx="3" fill="#E3B565"/>
+    <rect x="420" y="392" width="26" height="16" rx="3" fill="#81ADDB"/>
+    <rect x="450" y="392" width="26" height="16" rx="3" fill="#B596EC"/>
+    <rect x="480" y="392" width="26" height="16" rx="3" fill="#8CBDB5"/>
+    <rect x="510" y="392" width="26" height="16" rx="3" fill="#D6B98C"/>
+  </g>
+
+  <!-- next prompt -->
+  <g class="in" style="animation-delay:2.82s">
+    <text x="40" y="462" class="muted">logjxn@fedora <tspan class="tan">~</tspan></text>
+    <text x="40" y="486" class="tan bold">&gt;_</text>
+  </g>
+  <rect x="68.8" y="471" width="10" height="19" fill="#D6B98C" class="cur" style="animation-delay:2.82s,2.82s"/>
+</svg>

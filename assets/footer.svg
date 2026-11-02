@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="64" viewBox="0 0 960 64" role="img" aria-labelledby="t">
+  <title id="t">build. break. understand. improve.</title>
+  <style>
+    text { font-family: 'DejaVu Sans Mono', 'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+  </style>
+  <rect x="1" y="1" width="958" height="62" rx="14" fill="#45392F" stroke="#695644" stroke-width="2"/>
+  <text x="32" y="41" fill="#D6B98C" font-size="24" font-weight="700">&gt;_</text>
+  <text x="480" y="38" fill="#D6B98C" font-size="17" text-anchor="middle">build. break. understand. improve.</text>
+  <text x="928" y="38" fill="#A99270" font-size="15" text-anchor="end">cloud + systems</text>
+</svg>
