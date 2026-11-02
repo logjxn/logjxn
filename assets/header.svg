@@ -18,10 +18,10 @@
   <path d="M2 40V15A13 13 0 0 1 15 2H945A13 13 0 0 1 958 15V40Z" fill="#3B3129"/>
   <path d="M2 40H958" stroke="#695644" stroke-width="2"/>
   <g fill="#695644"><circle cx="26" cy="21" r="6"/><circle cx="46" cy="21" r="6"/><circle cx="66" cy="21" r="6"/></g>
-  <text x="480" y="26" text-anchor="middle" class="muted" style="font-size:14px">logjxn@fedora: ~</text>
+  <text x="480" y="26" text-anchor="middle" class="muted" style="font-size:14px">logjxn@github: ~</text>
 
   <!-- prompt + typed command -->
-  <text x="40" y="80" class="muted">logjxn@fedora <tspan class="tan">~</tspan></text>
+  <text x="40" y="80" class="muted">logjxn@github <tspan class="tan">~</tspan></text>
   <text x="40" y="104" class="tan bold">&gt;_</text>
   <text x="68.8" y="104" class="tan key" style="animation-delay:0.50s">f</text>
   <text x="78.4" y="104" class="tan key" style="animation-delay:0.59s">a</text>
@@ -49,7 +49,7 @@
   <g class="in" style="animation-delay:2.11s"><text x="300" y="288" class="muted">security</text><text x="410" y="288" xml:space="preserve"><tspan fill="#D6B98C">endpoint · hardening · IAM</tspan></text></g>
   <g class="in" style="animation-delay:2.19s"><text x="300" y="314" class="muted">projects</text><text x="410" y="314" xml:space="preserve"><tspan fill="#3A96DD">az-suite</tspan><tspan fill="#A99270"> · </tspan><tspan fill="#B8A281">ISOx</tspan><tspan fill="#A99270"> · </tspan><tspan fill="#81ADDB">sb-audit</tspan></text></g>
   <g class="in" style="animation-delay:2.27s"><text x="300" y="340" class="muted">studying</text><text x="410" y="340" xml:space="preserve"><tspan fill="#3A96DD">AZ-104</tspan><tspan fill="#8FC08A">  in progress</tspan></text></g>
-  <g class="in" style="animation-delay:2.35s"><text x="300" y="366" class="muted">os</text><text x="410" y="366" xml:space="preserve"><tspan fill="#FFFFFF">Fedora COSMIC + Windows</tspan></text></g>
+  <g class="in" style="animation-delay:2.35s"><text x="300" y="366" class="muted">dev env</text><text x="410" y="366" xml:space="preserve"><tspan fill="#FFFFFF">Fedora COSMIC + Windows</tspan></text></g>
   <g class="in" style="animation-delay:2.47s">
     <rect x="300" y="392" width="26" height="16" rx="3" fill="#3B3129" stroke="#695644"/>
     <rect x="330" y="392" width="26" height="16" rx="3" fill="#E08A7E"/>
@@ -63,7 +63,7 @@
 
   <!-- next prompt -->
   <g class="in" style="animation-delay:2.82s">
-    <text x="40" y="462" class="muted">logjxn@fedora <tspan class="tan">~</tspan></text>
+    <text x="40" y="462" class="muted">logjxn@github <tspan class="tan">~</tspan></text>
     <text x="40" y="486" class="tan bold">&gt;_</text>
   </g>
   <rect x="68.8" y="471" width="10" height="19" fill="#D6B98C" class="cur" style="animation-delay:2.82s,2.82s"/>
