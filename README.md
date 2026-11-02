@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="fastfetch in a brown terminal: logjxn. IT, cloud and infrastructure. Azure, Linux, Windows, Python, PowerShell, Bash. Studying for AZ-104.">
+</p>
 
-<!--
-**logjxn/logjxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `>_ whoami`
 
-Here are some ideas to get you started:
+Hey, I'm Log. IT professional interested in cloud, infrastructure, systems, and automation. I enjoy building things, troubleshooting systems, and understanding how tech really works under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `>_ ls ~/interests`
+
+| area | focus |
+|---|---|
+| **Cloud** | Microsoft Azure, cloud administration, identity, networking |
+| **Infrastructure** | Linux, Windows, virtualization, system administration |
+| **Automation** | Python, PowerShell, Bash |
+| **Security** | Endpoint security, hardening, identity and access management |
+
+### `>_ ls ~/projects`
+
+| repo | what it does |
+|---|---|
+| [**az-suite**](https://github.com/logjxn/az-suite) | Hands-on Azure administration labs covering identity, networking, compute, and automation. |
+| [**ISOx**](https://github.com/logjxn/ISOx) | Linux ISO downloader and verifier supporting 22 distributions, on PyPI, with a full (215+) test suite. |
+| [**sb-audit**](https://github.com/logjxn/sb-audit) | Windows boot posture auditing. |
+
+### `>_ cat now.txt`
+
+Working toward **AZ-104** and building practical experience with cloud and infrastructure.
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="build. break. understand. improve.">
+</p>
