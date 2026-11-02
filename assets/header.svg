@@ -41,7 +41,7 @@
 
   <!-- info -->
   <text x="300" y="150" class="in bold" fill="#FFFFFF" style="animation-delay:1.71s">logjxn<tspan class="muted">@</tspan>github</text>
-  <path d="M300 160h104" stroke="#695644" stroke-width="2" class="in" style="animation-delay:1.71s"/>
+  <path d="M300 160h125" stroke="#695644" stroke-width="2" class="in" style="animation-delay:1.71s"/>
   <g class="in" style="animation-delay:1.79s"><text x="300" y="184" class="muted">role</text><text x="410" y="184" xml:space="preserve"><tspan fill="#D6B98C">IT · cloud + infrastructure</tspan></text></g>
   <g class="in" style="animation-delay:1.87s"><text x="300" y="210" class="muted">cloud</text><text x="410" y="210" xml:space="preserve"><tspan fill="#D6B98C">Microsoft Azure · identity · networking</tspan></text></g>
   <g class="in" style="animation-delay:1.95s"><text x="300" y="236" class="muted">infra</text><text x="410" y="236" xml:space="preserve"><tspan fill="#D6B98C">Linux · Windows · virtualization</tspan></text></g>
