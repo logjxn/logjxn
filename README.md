@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="fastfetch in a brown terminal: logjxn. IT, cloud and infrastructure. Azure, Linux, Windows, Python, PowerShell, Bash. Studying for AZ-104.">
+</p>
 
 ### `>_ whoami`
 
