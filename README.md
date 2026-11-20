@@ -20,7 +20,7 @@ Hey, I'm Log. IT professional interested in cloud, infrastructure, systems, and 
 | repo | what it does |
 |---|---|
 | [**az-suite**](https://github.com/logjxn/az-suite) | Hands-on Azure administration labs covering identity, networking, compute, and automation. |
-| [**ISOx**](https://github.com/logjxn/ISOx) | Linux ISO downloader and verifier supporting 22 distributions, on PyPI, with a full (215+) test suite. |
+| [**isox**](https://github.com/logjxn/ISOx) | Linux `.iso` downloader and verifier supporting 24 distributions, on PyPI, with a full test suite. |
 | [**sb-audit**](https://github.com/logjxn/sb-audit) | Windows boot posture auditing. |
 
 ### `>_ cat now.txt`
