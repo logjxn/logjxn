@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" role="img" aria-labelledby="t">
-  <title id="t">logjxn: fastfetch in a brown terminal. IT, cloud and infrastructure. Azure, Linux, Windows, Python, PowerShell, Bash. Studying for AZ-104.</title>
+  <title id="t">logjxn: fastfetch in a terminal</title>
   <style>
     text { font-family: 'DejaVu Sans Mono', 'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 16px; }
     .muted { fill: #A99270; }
