@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="fastfetch in a brown terminal: logjxn. IT, cloud and infrastructure. Azure, Linux, Windows, Python, PowerShell, Bash. Studying for AZ-104.">
+  <img src="assets/header.svg" width="100%" alt="fastfetch in a brown terminal: all about me!">
 </p>
 
 ### `>_ whoami`
 
-Hey, I'm Log. IT professional interested in cloud, infrastructure, systems, and automation. I enjoy building things, troubleshooting systems, and understanding how tech really works under the hood.
+I'm Log. I've found building, creating, and learning to be at the top of my interests. Related to that, IT (cloud and infrastructure) is the field I've found to resonate with me the most!
+
+I started out learning heavily towards security, but over time realized I enjoy working a wide array of technologies and systems at once. That being said, everything I learned in security, I aim to carry into what I create. I believe it reflects in some aspects of my projects.
 
 ### `>_ ls ~/interests`
 
@@ -25,7 +27,7 @@ Hey, I'm Log. IT professional interested in cloud, infrastructure, systems, and 
 
 ### `>_ cat now.txt`
 
-Working toward **AZ-104** and building practical experience with cloud and infrastructure.
+Working toward AZ-104 and building practical experience with cloud and infrastructure.
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="build. break. understand. improve.">
