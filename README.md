@@ -4,7 +4,7 @@
 
 ### `>_ whoami`
 
-I'm Log. I've found building, creating, and learning to be at the top of my interests. Related to that, IT (cloud and infrastructure) is the field I've found to resonate with me the most!
+I'm Log. I've found building, maintaining, and learning to be at the top of my interests. Related to that, IT (cloud and infrastructure) is the field I've found to resonate with me the most!
 
 I started out learning heavily towards security, but over time realized I enjoy working a wide array of technologies and systems at once. That being said, everything I learned in security, I aim to carry into what I create. I believe it reflects in some aspects of my projects.
 
